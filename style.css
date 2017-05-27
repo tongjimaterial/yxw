@@ -1,0 +1,64 @@
+
+*{margin:0; padding:0; list-style-type:none;}
+body{font-size:12px; line-height:180%;}
+a{text-decoration:none; color:#666;}
+a:hover{color:#000;}
+a img{border:none;}
+.clear{clear:both;}
+.border{border:1px solid #6F9CC9;}
+h2{font-size:16px;}
+
+#header{height:155px;}
+
+#top{background:#ffffff; height:120px;}
+#top .inner{width:900px; margin:0 auto;}
+	#logo{width:200px; float:left; margin-top:0px;}
+	#banner{width:650px; float:right;}
+	#banner img{width:650px; height:80px; margin-top:30px;;margin-right:50px;}
+
+
+#menu{height:35px; background:#6F9CC9;}
+#menu ul{height:35px; width:900px; margin:0 auto;}
+#menu ul li{float:left;;height:35px; line-height:35px; margin-right:1px;}
+#menu ul li a{display:block; float:left; height:35px; padding:0 30px; color:#fff;}
+#menu ul li a:hover{background-color:#0d3879;}
+#menu ul li.home a{background-color:#0d3879;}
+
+#main{width:900px; margin:0 auto; margin-top:20px;}
+#mainleft{width:250px; float:left;}
+	.sidebox{padding:0 10px 0px; border-bottom:1px solid #6F9CC9;}
+	.sidebox h3{line-height:30px; font-size:18px;}
+
+#mainright{width:640px; float:right;}
+#content{padding:10px;}
+#saySlide{width:618px; height:250px; overflow:hidden;}
+
+#thumblist{margin-top:10px;}
+#thumblist h2{font-size:16px; border-bottom:1px solid #6F9CC9;}
+#thumblist ul{}
+#thumblist ul li{width:154px; float:left;}
+#thumblist ul li .box{border:1px solid #6F9CC9; margin:5px;}
+#thumblist ul li .box img{width:142px; height:110px; display:block;}
+
+#newslist{margin-top:10px;}
+#newslist h2{font-size:16px; border-bottom:1px solid #6F9CC9;}
+#newslist h2 span.more{font-size:12px; padding-left:50px;}
+#newslist h2 span.more a{font-weight:400; color:#999;}
+#newslist ul{padding:5px 10px;}
+#newslist ul li{line-height:30px; border-bottom:1px dotted #ccc;}
+
+.sbanner{margin-top:10px; text-align:center;}
+.sbanner img{}
+
+.about{}
+.about p{text-indent:24px; padding:5px 0;}
+.about span{padding:0 10px;}
+
+.picture{}
+.picture p{padding:5px 0;}
+
+.log{padding:10px; line-height:30px;}
+
+#footer{margin-top:20px;margin-left:0px; border-top:1px solid #6F9CC9;}
+.copyright{padding:20px 0 30px; text-align:center; color:#999; height:50px;}
+.notice{text-align:center; color:#000; height:10px;font-size:20px;}
