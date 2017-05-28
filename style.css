@@ -20,7 +20,7 @@ h2{font-size:16px;}
 #menu{height:35px; background:#6F9CC9;}
 #menu ul{height:35px; width:900px; margin:0 auto;}
 #menu ul li{float:left;;height:35px; line-height:35px; margin-right:1px;}
-#menu ul li a{display:block; float:left; height:35px; padding:0 30px; color:#fff;}
+#menu ul li a{display:block; float:left; height:35px; padding:0 19px; color:#fff;}
 #menu ul li a:hover{background-color:#0d3879;}
 #menu ul li.home a{background-color:#0d3879;}
 
@@ -66,3 +66,6 @@ h2{font-size:16px;}
 .notice_mini{padding:0 0 0px;text-align:center; color:#000; font-size:15px;}
 .notice_head{padding:0 0 0px;text-align:left; color:#000; font-size:15px;}
 .notice_head_mini{padding:0 0 0px;text-align:left; color:#000; font-size:15px;}
+.boss{margin-left:10px;text-align:left; color:#000; height:3px;font-size:15px;}
+.boss_1{margin-left:10px;text-align:left; color:#000; height:20px;font-size:15px;}
+.boss_2{margin-left:10px;text-align:left; color:#000; height:20px;font-size:15px;}
