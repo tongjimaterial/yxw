@@ -20,8 +20,8 @@ h2{font-size:16px;}
 #menu{height:35px; background:#6F9CC9;}
 #menu ul{height:35px; width:900px; margin:0 auto;}
 #menu ul li{float:left;;height:35px; line-height:35px; margin-right:1px;}
-#menu ul li a{display:block; float:left; height:35px; padding:0 19px; color:#000;}
-#menu ul li a:hover{background-color:#0d3879;color:#fff;}
+#menu ul li a{display:block; float:left; height:35px; padding:0 19px; color:#fff;}
+#menu ul li a:hover{background-color:#0d3879;}
 #menu ul li.home a{background-color:#0d3879;}
 
 #menu_left{height:20px; background:#6F9CC9;}
