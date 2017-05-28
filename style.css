@@ -72,3 +72,8 @@ h2{font-size:16px;}
 .boss{margin-left:10px;text-align:left; color:#000; height:3px;font-size:15px;}
 .boss_1{margin-left:10px;text-align:left; color:#000; height:20px;font-size:15px;}
 .boss_2{margin-left:10px;text-align:left; color:#000; height:20px;font-size:15px;}
+
+
+#footer_1{width:880px;margin:1px auto;color:#fff;padding:20px 0;background:#6F9CC9;border-top:4px solid #6F9CC9;}
+#footer_1 pre{width:25em;margin:0 auto;text-align:left;}
+#footer_1 a{color:#eee;font:10px 微软雅黑}
