@@ -46,7 +46,7 @@ h2{font-size:16px;}
 #thumblist ul li .box img{width:142px; height:110px; display:block;}
 
 #newslist{margin-top:10px;}
-#newslist h2{font-size:16px; border-bottom:1px solid #6F9CC9;}
+#newslist h2{font-size:16px; border-bottom:1px solid #6F9CC9;font-weight:bold}
 #newslist h2 span.more{font-size:12px; padding-left:50px;}
 #newslist h2 span.more a{font-weight:400; color:#999;}
 #newslist ul{padding:5px 10px;}
@@ -65,7 +65,7 @@ h2{font-size:16px;}
 .log{padding:10px; line-height:30px;}
 .log a{padding:10px; line-height:30px;color:#000000;}
 .log a:hover{padding:10px; line-height:30px;color:#6F9CC9;text-decoration:underline;}
-.log_1{padding:10px; line-height:30px;}
+
 
 #footer{margin-top:20px;margin-left:0px; border-top:1px solid #6F9CC9;}
 .copyright{padding:20px 0 30px; text-align:center; color:#999; height:50px;}
@@ -83,3 +83,6 @@ h2{font-size:16px;}
 #footer_1{width:900px;margin:1px auto;color:#fff;padding:10px 0;background:#6F9CC9;border-top:4px solid #6F9CC9;}
 #footer_1 pre{width:50em;margin:0 auto;text-align:left;}
 #footer_1 a{color:#eee;font:10px 微软雅黑}
+
+
+.slog{line-height:30px;}

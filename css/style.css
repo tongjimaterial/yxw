@@ -22,10 +22,10 @@ p{word-wrap:break-word}
 h1,h2,h3,dt{font-family:'Î¢ÈíÑÅºÚ','ºÚÌå';font-weight:100;font-size:16px;}
 
 /* ÊÓÒ° */
-.picBox{overflow:hidden;zoom:1;margin:5px auto 0 auto;width:620px;}
+.picBox{overflow:hidden;zoom:1;margin:5px auto 0 auto;width:630px;}
 .picL{overflow:hidden;zoom:1;margin-left:-1px;}
 .picL li{overflow:hidden;position:relative;float:left; display:inline; width:295;height:200px;margin:10px 8px 15px  1px; zoom:1  }
-.picL li .text{background:#000;opacity:.5;position:absolute;width:295;height:200px;top:150px;left:0;font-family:'Î¢ÈíÑÅºÚ','ºÚÌå';}
+.picL li .text{background:#000;opacity:.5;font-weight:bold;position:absolute;width:295;height:200px;top:150px;left:0;font-family:'Î¢ÈíÑÅºÚ','ºÚÌå';}
 .picL li .text b{background:#0d3879;padding:5px 15px;color:#fff;font-size:10px;display:inline-block;*display:inline;zoom:1;font-weight:100;}
-.picL li .text p{font-size:16px;line-height:24px; }
-.picL li .text a{color: #fff;display: block;height: 80px;padding: 2px;}
+.picL li .text p{font-size:15px;line-height:24px; }
+.picL li .text a{color: #fff;display: block;height: 80px;padding-top:2px;padding-left:5px}
