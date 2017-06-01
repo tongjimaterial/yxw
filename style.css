@@ -1,5 +1,5 @@
 
-*{margin:0; padding:0; list-style-type:none;}
+*{margin:0; padding:0; list-style-type:none;text-shadow:0 0 0}
 body{font-size:12px; line-height:180%;}
 a{text-decoration:none; color:#666;}
 a:hover{color:#000;}
@@ -30,6 +30,8 @@ h2{font-size:16px;}
 #mainleft{width:250px; float:left;}
 	.sidebox{padding:0 10px 0px; border-bottom:1px solid #6F9CC9;}
 	.sidebox h3{line-height:30px; font-size:18px;}
+	.sidebox a{color:#000000;}	
+	.sidebox a:hover{color:#6F9CC9;text-decoration:underline;}
 	.sidebox_1{ border-bottom:1px solid #6F9CC9;}
 
 #mainright{width:640px; float:right;}
@@ -61,6 +63,9 @@ h2{font-size:16px;}
 .picture p{padding:5px 0;}
 
 .log{padding:10px; line-height:30px;}
+.log a{padding:10px; line-height:30px;color:#000000;}
+.log a:hover{padding:10px; line-height:30px;color:#6F9CC9;text-decoration:underline;}
+.log_1{padding:10px; line-height:30px;}
 
 #footer{margin-top:20px;margin-left:0px; border-top:1px solid #6F9CC9;}
 .copyright{padding:20px 0 30px; text-align:center; color:#999; height:50px;}
